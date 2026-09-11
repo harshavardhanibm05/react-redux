@@ -1,5 +1,5 @@
 import React from "react";
-import { buyCake } from "../redux/cakes/cakeAcrion";
+import { buyCake } from "../redux/cakes/cakeAction";
 import { useState } from "react";
 import { connect } from 'react-redux'
  
